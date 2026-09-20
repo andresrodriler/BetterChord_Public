@@ -1,0 +1,20 @@
+# Local development (with a CUDA GPU). 
+# If you have a CPU-only machine or want to use CPU deployment, use requirements-cpu.txt instead\
+# If you have a CPU only machine like a simple laptop, the CUDA-specific torch build below will fail to install on a CPU-only host entirely.
+
+# Install PyTorch first with CUDA support:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128 
+# Then run:
+#   pip install -r requirements-gpu.txt
+
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+torchvision==0.26.0+cu128
+
+librosa==0.11.0
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.10.8
+soundfile==0.13.1
+scikit-learn==1.8.0
+audioread>=3.0.0

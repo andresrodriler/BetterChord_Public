@@ -1,0 +1,2674 @@
+{
+  "#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      7
+    ],
+    "required": [
+      0,
+      3,
+      4
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "A(#9)"
+    ],
+    "music_theory_names": [
+      "#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "#9"
+    ]
+  },
+  "-5": {
+    "interval_set": [
+      0,
+      4,
+      6
+    ],
+    "required": [
+      0,
+      4,
+      6
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 29,
+    "songs_db_example_spellings": [
+      "C(b5)"
+    ],
+    "music_theory_names": [
+      "-5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "-5"
+    ]
+  },
+  "9b5": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      6,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 5,
+    "songs_db_example_spellings": [
+      "D9b5"
+    ],
+    "music_theory_names": [
+      "9b5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9b5"
+    ]
+  },
+  "maj7b5": {
+    "interval_set": [
+      0,
+      4,
+      6,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      11
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 12,
+    "songs_db_example_spellings": [
+      "Gbmaj7b5"
+    ],
+    "music_theory_names": [
+      "maj7b5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7b5"
+    ]
+  },
+  "maj7add11": {
+    "interval_set": [
+      0,
+      4,
+      5,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      5,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 2,
+    "songs_db_example_spellings": [
+      "Bmaj7add11"
+    ],
+    "music_theory_names": [
+      "maj7add11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7add11"
+    ]
+  },
+  "6add11": {
+    "interval_set": [
+      0,
+      4,
+      5,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      4,
+      5,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 17,
+    "songs_db_example_spellings": [
+      "A#6add11",
+      "G#6add4"
+    ],
+    "music_theory_names": [
+      "6add11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "6add11"
+    ]
+  },
+  "add9": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      4
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1068,
+    "songs_db_example_spellings": [
+      "Dadd9",
+      "C#add2"
+    ],
+    "music_theory_names": [
+      "add9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "add9"
+    ]
+  },
+  "13#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      4,
+      9,
+      10
+    ],
+    "omittable": [
+      5,
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "13#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "13#9"
+    ]
+  },
+  "13b9#11": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      6,
+      9,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "13b9#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "13b9#11"
+    ]
+  },
+  "dim7b13": {
+    "interval_set": [
+      0,
+      3,
+      6,
+      8
+    ],
+    "required": [
+      0,
+      3,
+      6,
+      8
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "dim7b13"
+    ]
+  },
+  "maj13#11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      9,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      9,
+      11
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "maj13#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj13#11"
+    ]
+  },
+  "m6/9": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      2,
+      3,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 12,
+    "songs_db_example_spellings": [
+      "Em6/9",
+      "Gm6add9"
+    ],
+    "music_theory_names": [
+      "m6/9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m6/9"
+    ]
+  },
+  "aug": {
+    "interval_set": [
+      0,
+      4,
+      8
+    ],
+    "required": [
+      0,
+      4,
+      8
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 303,
+    "songs_db_example_spellings": [
+      "Eaug",
+      "C+"
+    ],
+    "music_theory_names": [
+      "aug"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "aug"
+    ]
+  },
+  "9#5": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 3,
+    "songs_db_example_spellings": [
+      "D9+5"
+    ],
+    "music_theory_names": [
+      "9#5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9#5"
+    ]
+  },
+  "sus2sus4": {
+    "interval_set": [
+      0,
+      2,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "sus2sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "sus2sus4"
+    ]
+  },
+  "m7add13": {
+    "interval_set": [
+      0,
+      3,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      9,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 3,
+    "songs_db_example_spellings": [
+      "Ebm7add13"
+    ],
+    "music_theory_names": [
+      "m7add13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7add13"
+    ]
+  },
+  "maj7": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 5591,
+    "songs_db_example_spellings": [
+      "A#maj7"
+    ],
+    "music_theory_names": [
+      "maj7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7"
+    ]
+  },
+  "7#5#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      4,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 11,
+    "songs_db_example_spellings": [
+      "F7#5#9"
+    ],
+    "music_theory_names": [
+      "7#5#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7#5#9"
+    ]
+  },
+  "9#11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      6,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 4,
+    "songs_db_example_spellings": [
+      "D9#11"
+    ],
+    "music_theory_names": [
+      "9#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9#11"
+    ]
+  },
+  "7b5": {
+    "interval_set": [
+      0,
+      4,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 42,
+    "songs_db_example_spellings": [
+      "D7-5"
+    ],
+    "music_theory_names": [
+      "7b5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b5"
+    ]
+  },
+  "add4": {
+    "interval_set": [
+      0,
+      4,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      4,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 176,
+    "songs_db_example_spellings": [
+      "Aadd4",
+      "Gadd11"
+    ],
+    "music_theory_names": [
+      "add4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "add4"
+    ]
+  },
+  "6/9": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 78,
+    "songs_db_example_spellings": [
+      "C6/9",
+      "C6add9"
+    ],
+    "music_theory_names": [
+      "6/9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "6/9"
+    ]
+  },
+  "7b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 125,
+    "songs_db_example_spellings": [
+      "A7b9"
+    ],
+    "music_theory_names": [
+      "7b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b9"
+    ]
+  },
+  "addb13": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      8
+    ],
+    "required": [
+      0,
+      4,
+      8
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Aaddb13"
+    ],
+    "music_theory_names": [
+      "addb13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "addb13"
+    ]
+  },
+  "maj9": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 290,
+    "songs_db_example_spellings": [
+      "C#M9"
+    ],
+    "music_theory_names": [
+      "maj9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj9"
+    ]
+  },
+  "m7no5": {
+    "interval_set": [
+      0,
+      3,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Gm7no5"
+    ],
+    "music_theory_names": [],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7no5"
+    ]
+  },
+  "13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      9,
+      10
+    ],
+    "omittable": [
+      2,
+      5,
+      7
+    ],
+    "songs_db_occurrences": 151,
+    "songs_db_example_spellings": [
+      "G13"
+    ],
+    "music_theory_names": [
+      "13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "13"
+    ]
+  },
+  "add9#11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Fadd9#11"
+    ],
+    "music_theory_names": [
+      "add9#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "add9#11"
+    ]
+  },
+  "maj7#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      3,
+      4,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 2,
+    "songs_db_example_spellings": [
+      "Cmaj7(+9)"
+    ],
+    "music_theory_names": [
+      "maj7#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7#9"
+    ]
+  },
+  "9sus4": {
+    "interval_set": [
+      0,
+      2,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      5,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 77,
+    "songs_db_example_spellings": [
+      "D9sus4"
+    ],
+    "music_theory_names": [
+      "9sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9sus4"
+    ]
+  },
+  "7b5#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      4,
+      6,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "7b5#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b5#9"
+    ]
+  },
+  "m7b5": {
+    "interval_set": [
+      0,
+      3,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      6,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 304,
+    "songs_db_example_spellings": [
+      "F#m7b5"
+    ],
+    "music_theory_names": [
+      "m7b5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7b5"
+    ]
+  },
+  "m7": {
+    "interval_set": [
+      0,
+      3,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 9918,
+    "songs_db_example_spellings": [
+      "Dm7",
+      "Am7+9"
+    ],
+    "music_theory_names": [
+      "m7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7"
+    ]
+  },
+  "mmaj9": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      2,
+      3,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 6,
+    "songs_db_example_spellings": [
+      "Emmaj9"
+    ],
+    "music_theory_names": [
+      "mmaj9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "mmaj9"
+    ]
+  },
+  "madd4": {
+    "interval_set": [
+      0,
+      3,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      3,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 42,
+    "songs_db_example_spellings": [
+      "G#madd11",
+      "Amadd4"
+    ],
+    "music_theory_names": [
+      "madd4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "madd4"
+    ]
+  },
+  "m13": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      9,
+      10
+    ],
+    "omittable": [
+      2,
+      5,
+      7
+    ],
+    "songs_db_occurrences": 8,
+    "songs_db_example_spellings": [
+      "Bm13/A"
+    ],
+    "music_theory_names": [
+      "m13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m13"
+    ]
+  },
+  "11b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      5,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "B11b9"
+    ],
+    "music_theory_names": [
+      "11b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "11b9"
+    ]
+  },
+  "9add13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      9,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 2,
+    "songs_db_example_spellings": [
+      "G9add13"
+    ],
+    "music_theory_names": [
+      "9add13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9add13"
+    ]
+  },
+  "7b9b13": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      7,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      8,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b9b13"
+    ]
+  },
+  "6": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      4,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1181,
+    "songs_db_example_spellings": [
+      "Eb6",
+      "G#add6",
+      "Abadd13"
+    ],
+    "music_theory_names": [
+      "6"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "6"
+    ]
+  },
+  "7b5b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      6,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Bb7b5b9"
+    ],
+    "music_theory_names": [
+      "7b5b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b5b9"
+    ]
+  },
+  "7#11": {
+    "interval_set": [
+      0,
+      4,
+      6,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 5,
+    "songs_db_example_spellings": [
+      "Db7+11"
+    ],
+    "music_theory_names": [
+      "7#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7#11"
+    ]
+  },
+  "mb6": {
+    "interval_set": [
+      0,
+      3,
+      8
+    ],
+    "required": [
+      0,
+      3,
+      8
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 17,
+    "songs_db_example_spellings": [
+      "Cm#5",
+      "Emb6"
+    ],
+    "music_theory_names": [
+      "mb6"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "mb6"
+    ]
+  },
+  "m9#5": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      3,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Em9#5"
+    ],
+    "music_theory_names": [
+      "m9#5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m9#5"
+    ]
+  },
+  "sus4": {
+    "interval_set": [
+      0,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 2708,
+    "songs_db_example_spellings": [
+      "Esus4"
+    ],
+    "music_theory_names": [
+      "sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "sus4"
+    ]
+  },
+  "mmaj7": {
+    "interval_set": [
+      0,
+      3,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      3,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 111,
+    "songs_db_example_spellings": [
+      "Fmmaj7"
+    ],
+    "music_theory_names": [
+      "mmaj7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "mmaj7"
+    ]
+  },
+  "sus2add#11": {
+    "interval_set": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      6
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "sus2add#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "sus2add#11"
+    ]
+  },
+  "m9": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      3,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 586,
+    "songs_db_example_spellings": [
+      "Em9",
+      "F#m7add9/G#"
+    ],
+    "music_theory_names": [
+      "m9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m9"
+    ]
+  },
+  "7no3": {
+    "interval_set": [
+      0,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "G7(no3)"
+    ],
+    "music_theory_names": [],
+    "has_voicing_entry": false,
+    "voicing_strings_found": []
+  },
+  "aug13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      8,
+      9,
+      10
+    ],
+    "omittable": [
+      2,
+      5
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "aug13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "aug13"
+    ]
+  },
+  "mmaj13": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      9,
+      11
+    ],
+    "required": [
+      0,
+      3,
+      9,
+      11
+    ],
+    "omittable": [
+      2,
+      5,
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Ebmmaj13"
+    ],
+    "music_theory_names": [
+      "mmaj13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "mmaj13"
+    ]
+  },
+  "7#5b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 3,
+    "songs_db_example_spellings": [
+      "D7#5b9"
+    ],
+    "music_theory_names": [
+      "7#5b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7#5b9"
+    ]
+  },
+  "7sus4": {
+    "interval_set": [
+      0,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      5,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 520,
+    "songs_db_example_spellings": [
+      "B7sus4"
+    ],
+    "music_theory_names": [
+      "7sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7sus4"
+    ]
+  },
+  "maj7add13": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      9,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      9,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 2,
+    "songs_db_example_spellings": [
+      "Cmaj7add13"
+    ],
+    "music_theory_names": [
+      "maj7add13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7add13"
+    ]
+  },
+  "maj11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      5,
+      11
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 4,
+    "songs_db_example_spellings": [
+      "Gbmaj11"
+    ],
+    "music_theory_names": [
+      "maj11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj11"
+    ]
+  },
+  "dim": {
+    "interval_set": [
+      0,
+      3,
+      6
+    ],
+    "required": [
+      0,
+      3,
+      6
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 767,
+    "songs_db_example_spellings": [
+      "Adim",
+      "Dmb5"
+    ],
+    "music_theory_names": [
+      "dim"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "dim"
+    ]
+  },
+  "augmaj7": {
+    "interval_set": [
+      0,
+      4,
+      8,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      8,
+      11
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 6,
+    "songs_db_example_spellings": [
+      "Abmaj7#5"
+    ],
+    "music_theory_names": [
+      "augmaj7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "augmaj7"
+    ]
+  },
+  "add4add9": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 15,
+    "songs_db_example_spellings": [
+      "Dadd4add9"
+    ],
+    "music_theory_names": [
+      "add4add9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "add4add9"
+    ]
+  },
+  "maj7#11": {
+    "interval_set": [
+      0,
+      4,
+      6,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 10,
+    "songs_db_example_spellings": [
+      "G#maj7#11"
+    ],
+    "music_theory_names": [
+      "maj7#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7#11"
+    ]
+  },
+  "9": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1142,
+    "songs_db_example_spellings": [
+      "F#9"
+    ],
+    "music_theory_names": [
+      "9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9"
+    ]
+  },
+  "maj13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      9,
+      11
+    ],
+    "required": [
+      0,
+      4,
+      9,
+      11
+    ],
+    "omittable": [
+      2,
+      5,
+      7
+    ],
+    "songs_db_occurrences": 34,
+    "songs_db_example_spellings": [
+      "Bmaj13"
+    ],
+    "music_theory_names": [
+      "maj13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj13"
+    ]
+  },
+  "susb9": {
+    "interval_set": [
+      0,
+      1,
+      5,
+      7
+    ],
+    "required": [
+      0,
+      1,
+      5
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "susb9"
+    ]
+  },
+  "maj7sus2": {
+    "interval_set": [
+      0,
+      2,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      2,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 41,
+    "songs_db_example_spellings": [
+      "G#maj7sus2/D#"
+    ],
+    "music_theory_names": [
+      "maj7sus2"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7sus2"
+    ]
+  },
+  "6sus2": {
+    "interval_set": [
+      0,
+      2,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      2,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 29,
+    "songs_db_example_spellings": [
+      "D#6sus2",
+      "Bbsus2add13"
+    ],
+    "music_theory_names": [
+      "6sus2"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "6sus2"
+    ]
+  },
+  "13sus4": {
+    "interval_set": [
+      0,
+      2,
+      5,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      5,
+      9,
+      10
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "B13sus"
+    ],
+    "music_theory_names": [
+      "13sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "13sus4"
+    ]
+  },
+  "6sus4": {
+    "interval_set": [
+      0,
+      5,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      5,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 20,
+    "songs_db_example_spellings": [
+      "D#6sus4"
+    ],
+    "music_theory_names": [
+      "6sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "6sus4"
+    ]
+  },
+  "m": {
+    "interval_set": [
+      0,
+      3,
+      7
+    ],
+    "required": [
+      0,
+      3
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 54679,
+    "songs_db_example_spellings": [
+      "Am",
+      "Em+7"
+    ],
+    "music_theory_names": [
+      "m"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m"
+    ]
+  },
+  "maj7sus4": {
+    "interval_set": [
+      0,
+      5,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      5,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 8,
+    "songs_db_example_spellings": [
+      "Gmaj7sus4"
+    ],
+    "music_theory_names": [
+      "maj7sus4"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj7sus4"
+    ]
+  },
+  "7add13": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      9,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 16,
+    "songs_db_example_spellings": [
+      "F#7add13",
+      "G7add6"
+    ],
+    "music_theory_names": [
+      "7add13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7add13"
+    ]
+  },
+  "11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      5,
+      10
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 89,
+    "songs_db_example_spellings": [
+      "Db11/Gb"
+    ],
+    "music_theory_names": [
+      "11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "11"
+    ]
+  },
+  "9b13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      8,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "G9b13"
+    ],
+    "music_theory_names": [
+      "9b13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "9b13"
+    ]
+  },
+  "maj9add13": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      7,
+      9,
+      11
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      9,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Amaj9add13"
+    ],
+    "music_theory_names": [
+      "maj9add13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj9add13"
+    ]
+  },
+  "aug7": {
+    "interval_set": [
+      0,
+      4,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 188,
+    "songs_db_example_spellings": [
+      "Bb7#5",
+      "Aaug7"
+    ],
+    "music_theory_names": [
+      "aug7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7#5"
+    ]
+  },
+  "add#11": {
+    "interval_set": [
+      0,
+      4,
+      6,
+      7
+    ],
+    "required": [
+      0,
+      4,
+      6
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 15,
+    "songs_db_example_spellings": [
+      "Bb(add#11)/A"
+    ],
+    "music_theory_names": [
+      "add#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "add#11"
+    ]
+  },
+  "7add11": {
+    "interval_set": [
+      0,
+      4,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      5,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 8,
+    "songs_db_example_spellings": [
+      "F#7add11",
+      "F#7add4"
+    ],
+    "music_theory_names": [
+      "7add11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7add11"
+    ]
+  },
+  "b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      7
+    ],
+    "required": [
+      0,
+      1,
+      4
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 10,
+    "songs_db_example_spellings": [
+      "G(b9)"
+    ],
+    "music_theory_names": [
+      "b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "b9"
+    ]
+  },
+  "7sus2": {
+    "interval_set": [
+      0,
+      2,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      2,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 121,
+    "songs_db_example_spellings": [
+      "C#7sus2"
+    ],
+    "music_theory_names": [
+      "7sus2"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7sus2"
+    ]
+  },
+  "": {
+    "interval_set": [
+      0,
+      4,
+      7
+    ],
+    "required": [
+      0,
+      4
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 103902,
+    "songs_db_example_spellings": [
+      "F",
+      "C+7",
+      "Faddb6",
+      "GM#7"
+    ],
+    "music_theory_names": [
+      ""
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      ""
+    ]
+  },
+  "m7#5": {
+    "interval_set": [
+      0,
+      3,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      8,
+      10
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 30,
+    "songs_db_example_spellings": [
+      "Dm7#5"
+    ],
+    "music_theory_names": [
+      "m7#5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7#5"
+    ]
+  },
+  "m11": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      5,
+      10
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 148,
+    "songs_db_example_spellings": [
+      "G#m11/D#"
+    ],
+    "music_theory_names": [
+      "m11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m11"
+    ]
+  },
+  "13b9": {
+    "interval_set": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      1,
+      4,
+      9,
+      10
+    ],
+    "omittable": [
+      5,
+      7
+    ],
+    "songs_db_occurrences": 6,
+    "songs_db_example_spellings": [
+      "B13b9"
+    ],
+    "music_theory_names": [
+      "13b9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "13b9"
+    ]
+  },
+  "m11b5": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      5,
+      6,
+      10
+    ],
+    "omittable": [
+      2
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "m11b5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m11b5"
+    ]
+  },
+  "mb9": {
+    "interval_set": [
+      0,
+      1,
+      3,
+      7
+    ],
+    "required": [
+      0,
+      1,
+      3
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Ebm-9"
+    ],
+    "music_theory_names": [
+      "mb9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "mb9"
+    ]
+  },
+  "m7b13": {
+    "interval_set": [
+      0,
+      3,
+      7,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      8,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7b13"
+    ]
+  },
+  "m7add11": {
+    "interval_set": [
+      0,
+      3,
+      5,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      5,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 33,
+    "songs_db_example_spellings": [
+      "F#m7add11",
+      "Dm7add4"
+    ],
+    "music_theory_names": [
+      "m7add11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m7add11"
+    ]
+  },
+  "5": {
+    "interval_set": [
+      0,
+      7
+    ],
+    "required": [
+      0,
+      7
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 3832,
+    "songs_db_example_spellings": [
+      "G5"
+    ],
+    "music_theory_names": [
+      "5"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "5"
+    ]
+  },
+  "7": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 12017,
+    "songs_db_example_spellings": [
+      "B7"
+    ],
+    "music_theory_names": [
+      "7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7"
+    ]
+  },
+  "sus2": {
+    "interval_set": [
+      0,
+      2,
+      7
+    ],
+    "required": [
+      0,
+      2
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1610,
+    "songs_db_example_spellings": [
+      "Asus2"
+    ],
+    "music_theory_names": [
+      "sus2"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "sus2"
+    ]
+  },
+  "maj9#11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      11
+    ],
+    "required": [
+      0,
+      2,
+      4,
+      6,
+      11
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 1,
+    "songs_db_example_spellings": [
+      "Gmaj9#11"
+    ],
+    "music_theory_names": [
+      "maj9#11"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "maj9#11"
+    ]
+  },
+  "m6": {
+    "interval_set": [
+      0,
+      3,
+      7,
+      9
+    ],
+    "required": [
+      0,
+      3,
+      9
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 481,
+    "songs_db_example_spellings": [
+      "Cm6/D",
+      "Gmadd6",
+      "Amadd13"
+    ],
+    "music_theory_names": [
+      "m6"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "m6"
+    ]
+  },
+  "7#9": {
+    "interval_set": [
+      0,
+      3,
+      4,
+      7,
+      10
+    ],
+    "required": [
+      0,
+      3,
+      4,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 76,
+    "songs_db_example_spellings": [
+      "E7#9",
+      "F#m7-11"
+    ],
+    "music_theory_names": [
+      "7#9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7#9"
+    ]
+  },
+  "7b13": {
+    "interval_set": [
+      0,
+      4,
+      7,
+      8,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      8,
+      10
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 27,
+    "songs_db_example_spellings": [
+      "G#7-13"
+    ],
+    "music_theory_names": [
+      "7b13"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "7b13"
+    ]
+  },
+  "dim7": {
+    "interval_set": [
+      0,
+      3,
+      6,
+      9
+    ],
+    "required": [
+      0,
+      3,
+      6,
+      9
+    ],
+    "omittable": [],
+    "songs_db_occurrences": 319,
+    "songs_db_example_spellings": [
+      "C#dim7"
+    ],
+    "music_theory_names": [
+      "dim7"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "dim7"
+    ]
+  },
+  "13#11": {
+    "interval_set": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "required": [
+      0,
+      4,
+      6,
+      9,
+      10
+    ],
+    "omittable": [
+      2,
+      7
+    ],
+    "songs_db_occurrences": 0,
+    "songs_db_example_spellings": [],
+    "music_theory_names": [
+      "13#11"
+    ],
+    "has_voicing_entry": false,
+    "voicing_strings_found": []
+  },
+  "madd9": {
+    "interval_set": [
+      0,
+      2,
+      3,
+      7
+    ],
+    "required": [
+      0,
+      2,
+      3
+    ],
+    "omittable": [
+      7
+    ],
+    "songs_db_occurrences": 114,
+    "songs_db_example_spellings": [
+      "Emadd9",
+      "Amadd2/D"
+    ],
+    "music_theory_names": [
+      "madd9"
+    ],
+    "has_voicing_entry": true,
+    "voicing_strings_found": [
+      "madd9"
+    ]
+  }
+}

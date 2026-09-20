@@ -1,0 +1,25 @@
+# CPU-only, for any machine without a CUDA GPU.
+# if you do have a CUDA GPU, use requirements-gpu.txt instead, training is much faster running on a GPU.
+
+# Install PyTorch CPU-only build first:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# Then run:
+#   pip install -r requirements-cpu.txt
+
+torch==2.11.0
+torchaudio==2.11.0
+torchvision==0.26.0
+
+# ONNX export toolchain (betterchord/training_scripts/export_onnx.py):
+# converts the trained chord_cnn.pth to chord_cnn.onnx for the deployed
+# backend, which runs onnxruntime instead of torch. Not needed to train.
+onnx
+onnxruntime
+
+librosa==0.11.0
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.10.8
+soundfile==0.13.1
+scikit-learn==1.8.0
+audioread>=3.0.0
