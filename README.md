@@ -127,7 +127,7 @@ sudo apt-get install ffmpeg
 ## Installation
 
 ```bash
-git clone https://github.com/[user]/BetterChord_Public.git
+git clone https://github.com/andresrodriler/BetterChord_Public.git
 cd BetterChord_Public
 ```
 
