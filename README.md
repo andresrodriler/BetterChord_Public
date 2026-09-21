@@ -188,13 +188,12 @@ Where things live:
 
 - **Model weights** (`chord_cnn.pth` / `chord_cnn.onnx`, CC BY-NC 4.0):
   published on Hugging Face —
-  `[PLACEHOLDER: Hugging Face model repo URL, not yet finalized]`.
+  `[ChordCNN on Hugging Face](https://huggingface.co/rodriler/betterchord-chord-cnn)`.
   See that repo's model card for training details, intended use, and
   known limitations.
 - **Training/voicing/song data**: published separately from this code
   repo (raw audio, the voicing database, the song database) —
-  `[PLACEHOLDER: link to the published dataset — Hugging Face Datasets
-  or Kaggle, not yet finalized]`. Care was taken around the licensing of
+  `[BetterChord Data on Hugging Face](https://huggingface.co/datasets/rodriler/betterchord-public-data)`. Care was taken around the licensing of
   each underlying data source (some of it is more restrictively licensed
   than the code or the model weights); see that dataset's own
   documentation for the full per-source attribution and license terms
